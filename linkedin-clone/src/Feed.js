@@ -28,8 +28,8 @@ function Feed() {
 
             <Post
                 name='Teddy Leclercq'
-                description='This is a test'
-                message='WOW this worked'
+                description='This is a description'
+                message='What message do you want to post ?'
             />
 
         </div>
